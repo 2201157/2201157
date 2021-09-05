@@ -6,9 +6,7 @@
   
 <div>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=2201157&layout=compact"/>
   
-</div>
-
-  
+  ![Snake animation](https://github.com/2201157/2201157/blob/output/github-contribution-grid-snake.svg)
+  </div>
   
